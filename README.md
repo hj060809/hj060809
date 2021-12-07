@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hj060809
+- 👀 I’m interested in python machine learning, android application
+- 🌱 I’m currently learning deep learning
+- 💞️ I’m looking to collaborate on ...
+--->
